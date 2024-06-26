@@ -1,3 +1,8 @@
+import numpy as np
+import math
+from ParameterDistributions import *
+from HaloParameters import *
+
 halo_masses =    ##log value 
 for i in range(len(halo_masses)):
     halo_masses[i] = 10**halo_masses[i]
