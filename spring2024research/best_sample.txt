@@ -1,0 +1,240 @@
+GalaxyID, Type, log10Mgcs, elog10Mgcs, log10Mstar, elog10Mstar, Ngc, Sample
+AndI, -4.9, 3.57, 0.2, 6.81, 0.2, 1, Local Group Sample
+EriII, -3, 3.6, 0.2, 4.85, 0.2, 1, Local Group Sample
+Aquarius, 9.9, 4.16, 0.2, 6.37, 0.2, 1, Local Group Sample
+AndXXV, -3, 4.18, 0.2, 6.01, 0.2, 1, Local Group Sample
+PegdIrr, 9.8, 5.06, 0.2, 7.01, 0.2, 1, Local Group Sample
+SMC, 8.9, 5.51, 0.2, 8.65, 0.2, 1, Local Group Sample
+WLM, 9.9, 5.7, 0.2, 7.81, 0.2, 1, Local Group Sample
+IC10, 9.9, 5.74, 0.2, 8.13, 0.2, 1, Local Group Sample
+NGC185, -4.8, 5.83, 0.2, 8.05, 0.2, 8, Local Group Sample
+Fornax, -4.8, 5.86, 0.2, 7.49, 0.2, 5, Local Group Sample
+NGC6822, 9.8, 6.1, 0.2, 8.21, 0.2, 8, Local Group Sample
+NGC147, -4.7, 6.11, 0.2, 7.97, 0.2, 10, Local Group Sample
+NGC205, -4.8, 6.15, 0.2, 8.73, 0.2, 11, Local Group Sample
+GaiaEnc, -3, 6.15, 0.2, 7.89, 0.2, 11, Local Group Sample
+Sgr, -3, 6.44, 0.2, 7.53, 0.2, 8, Local Group Sample
+LMC, 9.1, 6.52, 0.2, 9.17, 0.2, 16, Local Group Sample
+M33, 5.9, 6.7, 0.2, 9.53, 0.2, 50, Local Group Sample
+MilkyWay, 4, 7.2, 0.2, 10.72, 0.2, 160, Local Group Sample
+M31, 3, 7.65, 0.2, 10.92, 0.2, 450, Local Group Sample
+UrsaMinor, -4.9, 0, 0.2, 5.74, 0.2, 0, Local Group Sample
+Virgo Cluster SurveyI, -3, 0, 0.2, 2.33, 0.2, 0, Local Group Sample
+Willman1, -3, 0, 0.2, 3.17, 0.2, 0, Local Group Sample
+AndVII, -4, 0, 0.2, 7.17, 0.2, 0, Local Group Sample
+AndX, -3, 0, 0.2, 5.17, 0.2, 0, Local Group Sample
+AndXI, -3, 0, 0.2, 4.89, 0.2, 0, Local Group Sample
+AndXII, -3, 0, 0.2, 4.69, 0.2, 0, Local Group Sample
+AndXIII, -3, 0, 0.2, 4.81, 0.2, 0, Local Group Sample
+AndXIV, -3, 0, 0.2, 5.49, 0.2, 0, Local Group Sample
+AndXIX, -3, 0, 0.2, 5.81, 0.2, 0, Local Group Sample
+AndXV, -3, 0, 0.2, 5.89, 0.2, 0, Local Group Sample
+AndXVI, -3, 0, 0.2, 5.81, 0.2, 0, Local Group Sample
+AndXVII, -3, 0, 0.2, 5.61, 0.2, 0, Local Group Sample
+AndXVIII, -3, 0, 0.2, 6.01, 0.2, 0, Local Group Sample
+AndXX, -3, 0, 0.2, 4.65, 0.2, 0, Local Group Sample
+AndXXI, -3, 0, 0.2, 6.09, 0.2, 0, Local Group Sample
+AndXXII, -3, 0, 0.2, 4.73, 0.2, 0, Local Group Sample
+AndXXIII, -3, 0, 0.2, 6.21, 0.2, 0, Local Group Sample
+AndXXIV, -3, 0, 0.2, 5.17, 0.2, 0, Local Group Sample
+AndXXIX, -3, 0, 0.2, 5.45, 0.2, 0, Local Group Sample
+AndXXVI, -3, 0, 0.2, 4.97, 0.2, 0, Local Group Sample
+AndXXVII, -3, 0, 0.2, 5.29, 0.2, 0, Local Group Sample
+AndXXVIII, -3, 0, 0.2, 5.53, 0.2, 0, Local Group Sample
+AntliaII, -3, 0, 0.2, 5.62, 0.2, 0, Local Group Sample
+AquariusII, -3, 0, 0.2, 3.76, 0.2, 0, Local Group Sample
+BootesI, -3, 0, 0.2, 4.42, 0.2, 0, Local Group Sample
+BootesII, -3, 0, 0.2, 3.19, 0.2, 0, Local Group Sample
+BootesIII, -3, 0, 0.2, 4.31, 0.2, 0, Local Group Sample
+BootesIV, -3, 0, 0.2, 3.82, 0.2, 0, Local Group Sample
+Carina, -4.8, 0, 0.2, 5.9, 0.2, 0, Local Group Sample
+CarinaII, -3, 0, 0.2, 3.81, 0.2, 0, Local Group Sample
+CarinaIII, -3, 0, 0.2, 2.97, 0.2, 0, Local Group Sample
+CentaurusI, -3, 0, 0.2, 4.23, 0.2, 0, Local Group Sample
+Cetus, 10, 0, 0.2, 6.61, 0.2, 0, Local Group Sample
+CetusII, -3, 0, 0.2, 2, 0.2, 0, Local Group Sample
+CetusIII, -3, 0, 0.2, 2.99, 0.2, 0, Local Group Sample
+ColumbaI, -3, 0, 0.2, 3.79, 0.2, 0, Local Group Sample
+ComaBer, -3, 0, 0.2, 3.88, 0.2, 0, Local Group Sample
+CraterII, -3, 0, 0.2, 5.29, 0.2, 0, Local Group Sample
+CVnI, -3, 0, 0.2, 5.5, 0.2, 0, Local Group Sample
+CVnII, -3, 0, 0.2, 4.08, 0.2, 0, Local Group Sample
+Draco, -4.8, 0, 0.2, 5.65, 0.2, 0, Local Group Sample
+GrusI, -3, 0, 0.2, 3.4, 0.2, 0, Local Group Sample
+GrusII, -3, 0, 0.2, 3.57, 0.2, 0, Local Group Sample
+Hercules, -3, 0, 0.2, 4.34, 0.2, 0, Local Group Sample
+HorologiumI, -3, 0, 0.2, 3.52, 0.2, 0, Local Group Sample
+AndII, 10, 0, 0.2, 7.09, 0.2, 0, Local Group Sample
+HorologiumII, -3, 0, 0.2, 2.64, 0.2, 0, Local Group Sample
+HydraII, -3, 0, 0.2, 3.96, 0.2, 0, Local Group Sample
+HydrusI, -3, 0, 0.2, 3.9, 0.2, 0, Local Group Sample
+IC1613, 9.9, 0, 0.2, 8.21, 0.2, 0, Local Group Sample
+LeoA, 9.9, 0, 0.2, 6.97, 0.2, 0, Local Group Sample
+LeoI, -4.7, 0, 0.2, 6.84, 0.2, 0, Local Group Sample
+LeoII, 4.8, 0, 0.2, 6.03, 0.2, 0, Local Group Sample
+LeoIV, -3, 0, 0.2, 4.01, 0.2, 0, Local Group Sample
+AndIII, 10, 0, 0.2, 6.13, 0.2, 0, Local Group Sample
+LeoV, -3, 0, 0.2, 3.73, 0.2, 0, Local Group Sample
+LeoT, 0, 0, 0.2, 5.21, 0.2, 0, Local Group Sample
+Local Group SampleS3, -1, 0, 0.2, 6.17, 0.2, 0, Local Group Sample
+AndIX, -3, 0, 0.2, 5.37, 0.2, 0, Local Group Sample
+PegasusIII, -3, 0, 0.2, 3.65, 0.2, 0, Local Group Sample
+Phoenix, 9.5, 0, 0.2, 6.09, 0.2, 0, Local Group Sample
+PhoenixII, -3, 0, 0.2, 3.09, 0.2, 0, Local Group Sample
+PictorII, -3, 0, 0.2, 3.48, 0.2, 0, Local Group Sample
+PiscesII, -3, 0, 0.2, 3.7, 0.2, 0, Local Group Sample
+ReticulumII, -3, 0, 0.2, 3.61, 0.2, 0, Local Group Sample
+ReticulumIII, -3, 0, 0.2, 3.33, 0.2, 0, Local Group Sample
+Sculptor, -4.8, 0, 0.2, 6.46, 0.2, 0, Local Group Sample
+SegueI, -3, 0, 0.2, 2.53, 0.2, 0, Local Group Sample
+AndV, -3, 0, 0.2, 5.77, 0.2, 0, Local Group Sample
+SegueII, -3, 0, 0.2, 2.8, 0.2, 0, Local Group Sample
+SextansI, -3, 0, 0.2, 5.59, 0.2, 0, Local Group Sample
+SgrdIrr, 10, 0, 0.2, 6.73, 0.2, 0, Local Group Sample
+TriangulumII, -3, 0, 0.2, 2.65, 0.2, 0, Local Group Sample
+Tucana, -4.9, 0, 0.2, 5.93, 0.2, 0, Local Group Sample
+TucanaII, -3, 0, 0.2, 3.57, 0.2, 0, Local Group Sample
+TucanaIV, -3, 0, 0.2, 3.34, 0.2, 0, Local Group Sample
+AndVI, -4, 0, 0.2, 6.65, 0.2, 0, Local Group Sample
+TucanaV, -3, 0, 0.2, 2.65, 0.2, 0, Local Group Sample
+UrsaMajorI, -3, 0, 0.2, 4.06, 0.2, 0, Local Group Sample
+UrsaMajorII, -3, 1.78, 0.2, 3.78, 0.2, 1, Local Group Sample
+D634-03, 10, 5.03, 0.2, 6.54, 0.2, 1, Georgiev Sample
+DDO52, 10, 4.85, 0.2, 7.8, 0.2, 1, Georgiev Sample
+ESO121-20, 10, 4.61, 0.2, 6.99, 0.2, 1, Georgiev Sample
+ESO137-18, 5, 5.62, 0.2, 8.83, 0.2, 3, Georgiev Sample
+ESO154-023, 8.9, 4.55, 0.2, 8.3, 0.2, 3, Georgiev Sample
+ESO223-09, 9.7, 5.99, 0.2, 8.36, 0.2, 2, Georgiev Sample
+ESO269-66, -5, 5.44, 0.2, 7.48, 0.2, 1, Georgiev Sample
+ESO274-01, 6.6, 5.95, 0.2, 9.18, 0.2, 7, Georgiev Sample
+ESO349-031, 10, 4.44, 0.2, 6.48, 0.2, 1, Georgiev Sample
+ESO381-20, 9.8, 4.36, 0.2, 7.73, 0.2, 1, Georgiev Sample
+ESO384-016, -5, 4.64, 0.2, 7.89, 0.2, 1, Georgiev Sample
+IC1959, 8.4, 5.12, 0.2, 8.15, 0.2, 3, Georgiev Sample
+IKN, -3, 4.91, 0.2, 6.38, 0.2, 1, Georgiev Sample
+KK16, 10, 4.32, 0.2, 6.72, 0.2, 1, Georgiev Sample
+KK17, 10, 4.04, 0.2, 6, 0.2, 1, Georgiev Sample
+KK197, 10, 4.48, 0.2, 6.98, 0.2, 1, Georgiev Sample
+KK27, 10, 4.78, 0.2, 5.85, 0.2, 2, Georgiev Sample
+NGC1311, 8.7, 4.67, 0.2, 8.07, 0.2, 2, Georgiev Sample
+NGC247, 6.9, 6.58, 0.2, 9.37, 0.2, 24, Georgiev Sample
+NGC4605, 5, 6.42, 0.2, 9.24, 0.2, 15, Georgiev Sample
+NGC5237, 10, 4.77, 0.2, 8.19, 0.2, 1, Georgiev Sample
+NGC784, 7.8, 4.6, 0.2, 8.93, 0.2, 2, Georgiev Sample
+UGC1281, 7.5, 5.17, 0.2, 8.1, 0.2, 1, Georgiev Sample
+UGC3755, 9.9, 5.81, 0.2, 7.97, 0.2, 3, Georgiev Sample
+UGC4115, 9.9, 5.08, 0.2, 7.93, 0.2, 4, Georgiev Sample
+UGC7369, -3, 5.67, 0.2, 8.24, 0.2, 8, Georgiev Sample
+UGC8638, 9.9, 6.34, 0.2, 7.21, 0.2, 1, Georgiev Sample
+UGC8760, 9.8, 4.12, 0.2, 7.03, 0.2, 1, Georgiev Sample
+UGCA86, 9.9, 6.67, 0.2, 8.22, 0.2, 1, Georgiev Sample
+UGCA92, 10, 5.42, 0.2, 7.65, 0.2, 1, Georgiev Sample
+KKH77, 10, 4.37, 0.2, 7.6, 0.2, 1, Georgiev Sample
+ESO269-58, 9.4, 0, 0.2, 8.48, 0.2, 0, Georgiev Sample
+NGC1427A, 9.9, 0, 0.2, 9.3, 0.2, 0, Georgiev Sample
+ESO059-01, 10, 0, 0.2, 7.71, 0.2, 0, Georgiev Sample
+KK246, 10, 0, 0.2, 6.99, 0.2, 0, Georgiev Sample
+KKS55, -3, 0, 0.2, 6.23, 0.2, 0, Georgiev Sample
+NGC4163, 9.9, 0, 0.2, 7.28, 0.2, 0, Georgiev Sample
+UGC3974, 9.8, 0, 0.2, 7.9, 0.2, 0, Georgiev Sample
+UGC685, 9.2, 0, 0.2, 7.51, 0.2, 0, Georgiev Sample
+9, -5, 6.69, 0.1, 9.545, 0, 34, Virgo Cluster Survey
+21, -1, 6.54, 0.12, 8.82, 0.133, 26, Virgo Cluster Survey
+33, -5, 5.55, 0.46, 8.687, 0.078, 11, Virgo Cluster Survey
+140, -2, 6.58, 0.11, 9.332, 0, 29, Virgo Cluster Survey
+200, -5, 6.43, 0.14, 8.804, 0.096, 25, Virgo Cluster Survey
+230, -5, 6.65, 0.09, 8.561, 0.164, 38, Virgo Cluster Survey
+355, -2, 7.35, 0.12, 10.148, 0.013, 62, Virgo Cluster Survey
+369, -2, 7.65, 0.04, 10.385, 0.018, 179, Virgo Cluster Survey
+437, -2, 6.89, 0.07, 9.125, 0.072, 50, Virgo Cluster Survey
+538, -5, 4.98, 0.83, 8.659, 0.182, 10, Virgo Cluster Survey
+543, -2, 6.51, 0.12, 9.069, 0.083, 28, Virgo Cluster Survey
+571, 0, 6.28, 0.18, 8.993, 0.128, 17, Virgo Cluster Survey
+575, -5, 6.56, 0.13, 9.698, 0.032, 27, Virgo Cluster Survey
+654, 10, 6.91, 0.13, 9.917, 0.017, 48, Virgo Cluster Survey
+685, -2, 7.68, 0.12, 10.361, 0.006, 167, Virgo Cluster Survey
+698, -2, 7.38, 0.04, 9.741, 0.036, 119, Virgo Cluster Survey
+731, -5, 9.03, 0.07, 11.237, 0.023, 907, Virgo Cluster Survey
+751, 0, 6.19, 0.17, 8.883, 0.053, 17, Virgo Cluster Survey
+759, -2, 7.71, 0.08, 10.514, 0.018, 172, Virgo Cluster Survey
+763, -5, 9.15, 0.11, 11.217, 0.018, 506, Virgo Cluster Survey
+778, -2, 7.22, 0.16, 10.063, 0.013, 74, Virgo Cluster Survey
+784, -2, 7.04, 0.11, 10.006, 0.014, 64, Virgo Cluster Survey
+798, -2, 8.56, 0.07, 11.155, 0.017, 507, Virgo Cluster Survey
+828, -5, 7.18, 0.06, 9.983, 0.016, 828, Virgo Cluster Survey
+856, -5, 6.89, 0.07, 9.14, 0.098, 50, Virgo Cluster Survey
+881, -5, 8.97, 0.03, 11.175, 0.022, 367, Virgo Cluster Survey
+944, -2, 7.24, 0.06, 10.268, 0.022, 91, Virgo Cluster Survey
+1025, -5, 7.51, 0.09, 10.144, 0.023, 104, Virgo Cluster Survey
+1030, -2, 7.94, 0.09, 10.576, 0.013, 176, Virgo Cluster Survey
+1049, 0, 6.14, 0.19, 8.931, 0.114, 18, Virgo Cluster Survey
+1062, -2, 7.66, 0.07, 10.572, 0.019, 179, Virgo Cluster Survey
+1075, -5, 6.44, 0.12, 8.607, 0.182, 26, Virgo Cluster Survey
+1087, -5, 7.09, 0.06, 9.232, 0.095, 68, Virgo Cluster Survey
+1125, -2, 7.05, 0.07, 9.887, 0.028, 62, Virgo Cluster Survey
+1146, -5, 7.19, 0.07, 9.838, 0.018, 82, Virgo Cluster Survey
+1154, -2, 7.76, 0.05, 10.66, 0.009, 192, Virgo Cluster Survey
+1178, 3, 6.71, 0.13, 9.699, 0.022, 90, Virgo Cluster Survey
+1185, -5, 6.37, 0.15, 8.513, 0.112, 33, Virgo Cluster Survey
+1192, -5, 7.19, 0.07, 9.336, 0.07, 213, Virgo Cluster Survey
+1199, -5, 6.37, 0.15, 8.626, 0.084, 228, Virgo Cluster Survey
+1226, -5, 9.39, 0.05, 11.447, 0.02, 765, Virgo Cluster Survey
+1231, -5, 8, 0.1, 10.648, 0.018, 254, Virgo Cluster Survey
+1242, -2, 7.42, 0.08, 10.045, 0.012, 116, Virgo Cluster Survey
+1250, -2, 6.64, 0.13, 9.822, 0.016, 54, Virgo Cluster Survey
+1261, -5, 6.91, 0.09, 9.661, 0.065, 46, Virgo Cluster Survey
+1279, -5, 7.13, 0.08, 10.225, 0.01, 138, Virgo Cluster Survey
+1283, -2, 7.09, 0.06, 9.741, 0.024, 66, Virgo Cluster Survey
+1297, -5, 5.87, 0.57, 9.523, 0.014, 152, Virgo Cluster Survey
+1303, 0, 7.18, 0.1, 9.861, 0.026, 61, Virgo Cluster Survey
+1316, -5, 9.65, 0.03, 11.305, 0.015, 1745, Virgo Cluster Survey
+1321, -5, 6.82, 0.11, 9.764, 0.022, 50, Virgo Cluster Survey
+1327, -5, 6.35, 0.32, 9.815, 0.012, 173, Virgo Cluster Survey
+1355, -5, 6.29, 0.18, 8.335, 0.093, 20, Virgo Cluster Survey
+1407, -5, 6.91, 0.07, 8.728, 0.121, 60, Virgo Cluster Survey
+1422, -5, 6.67, 0.09, 9.276, 0.09, 37, Virgo Cluster Survey
+1431, -5, 7.03, 0.06, 9.126, 0.056, 71, Virgo Cluster Survey
+1440, -5, 6.65, 0.1, 8.928, 0.06, 38, Virgo Cluster Survey
+1475, -2, 7.22, 0.05, 9.656, 0.018, 86, Virgo Cluster Survey
+1488, -3, 7.22, 0.05, 9.656, 0.018, 86, Virgo Cluster Survey
+1489, -5, 6.24, 0.15, 8.572, 0, 22, Virgo Cluster Survey
+1499, -5, 6.49, 0.13, 8.545, 0.094, 35, Virgo Cluster Survey
+1512, -2, 5.87, 0.26, 8.828, 0, 15, Virgo Cluster Survey
+1528, -3, 5.87, 0.26, 8.828, 0, 15, Virgo Cluster Survey
+1535, -2, 8.06, 0.11, 10.98, 0.016, 244, Virgo Cluster Survey
+1537, -2, 6.83, 0.09, 9.923, 0.018, 45, Virgo Cluster Survey
+1539, -5, 6.68, 0.09, 8.748, 0, 43, Virgo Cluster Survey
+1545, -5, 6.96, 0.07, 8.721, 0.058, 63, Virgo Cluster Survey
+1619, -2, 7.27, 0.09, 10.003, 0.015, 66, Virgo Cluster Survey
+1627, -5, 5.76, 0.31, 9.026, 0.038, 8, Virgo Cluster Survey
+1630, -5, 7.01, 0.09, 9.983, 0.014, 57, Virgo Cluster Survey
+1632, -5, 8.44, 0.07, 10.731, 0.019, 456, Virgo Cluster Survey
+1661, -5, 6.19, 0.16, 8.652, 0, 19, Virgo Cluster Survey
+1664, -5, 7.71, 0.06, 10.338, 0.017, 146, Virgo Cluster Survey
+1692, -2, 7.54, 0.07, 10.502, 0.01, 136, Virgo Cluster Survey
+1695, 0, 6.41, 0.14, 8.9, 0.065, 22, Virgo Cluster Survey
+1720, -2, 7.15, 0.08, 10.149, 0.026, 71, Virgo Cluster Survey
+1743, -5, 6.19, 0.22, 8.547, 0.172, 16, Virgo Cluster Survey
+1779, 0, 5.55, 0.44, 8.369, 0.133, 8, Virgo Cluster Survey
+1826, -5, 5.84, 0.27, 8.328, 0.162, 13, Virgo Cluster Survey
+1828, 5, 6.53, 0.11, 8.652, 0.098, 27, Virgo Cluster Survey
+1833, -5, 6.49, 0.12, 9.066, 0.038, 28, Virgo Cluster Survey
+1857, 10, 6.25, 0.19, 8.984, 0, 16, Virgo Cluster Survey
+1861, -5, 6.83, 0.08, 9.187, 0.102, 49, Virgo Cluster Survey
+1871, -5, 6.26, 0.17, 9.251, 0.04, 18, Virgo Cluster Survey
+1883, -2, 7.36, 0.11, 10.317, 0.021, 83, Virgo Cluster Survey
+1886, -5, 5.79, 0.22, 8.828, 0, 14, Virgo Cluster Survey
+1895, -5, 6.01, 0.23, 8.708, 0.114, 13, Virgo Cluster Survey
+1903, -5, 8.36, 0.16, 10.801, 0.021, 308, Virgo Cluster Survey
+1910, -5, 6.94, 0.07, 9.274, 0.066, 60, Virgo Cluster Survey
+1913, -2, 7.23, 0.08, 9.954, 0.03, 65, Virgo Cluster Survey
+1938, -2, 7.16, 0.06, 10.328, 0.015, 101, Virgo Cluster Survey
+1948, -5, 5.59, 0.34, 8.752, 0, 10, Virgo Cluster Survey
+1978, -5, 9.13, 0.05, 11.311, 0.017, 807, Virgo Cluster Survey
+1993, -5, 5.59, 0.34, 8.546, 0.078, 4, Virgo Cluster Survey
+2000, -5, 7.68, 0.06, 10.221, 0.014, 197, Virgo Cluster Survey
+2019, -5, 6.63, 0.1, 9.1, 0.066, 34, Virgo Cluster Survey
+2048, -5, 6.51, 0.12, 9.187, 0.056, 22, Virgo Cluster Survey
+2050, -5, 6.17, 0.17, 8.54, 0.1, 20, Virgo Cluster Survey
+2092, -2, 7.45, 0.04, 10.553, 0.024, 92, Virgo Cluster Survey
+2095, -2, 7.86, 0.04, 10.933, 0.023, 134, Virgo Cluster Survey
